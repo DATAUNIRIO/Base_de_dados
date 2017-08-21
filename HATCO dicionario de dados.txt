@@ -1,16 +1,15 @@
-﻿
- [1] "ID                   Identificação do comprador"                                                                                                                                                                                                                                  
- [2] "Velocidadeentrega     X1 Velocidade de entrega: quantidade de tempo que leva para entregar o produto uma vez que uma ordem foi confirmada"                                                                                                                                        
- [3] "Preco                 X2 Nível de preço: nível de preço percebido pelos fornecedores de produtos"                                                                                                                                                                                 
- [4] "Flexibilidadeprecos   X3 Flexibilidade de preços: percepção sobre a forma de pagamento da HATCO (Dinheiro, Cartao, Crediário, em 10X, Desconto, etc...)"                                                                                                                          
- [5] "Imagemfabricante      X4 Imagem do fabricante: imagem geral do fabricante / fornecedor"                                                                                                                                                                                           
- [6] "Prestacaoservicos     X5 Prestação de serviços - nível global de serviço necessário para manter uma relação entre fornecedor e comprador"                                                                                                                                         
- [7] "Imagemvendas          X6 Imagem da força de vendas: imagem geral da força de vendas do fabricante"                                                                                                                                                                                
- [8] "Qualidade do produto  X7 Qualidade do produto: nível de qualidade percebido de um determinado produto"                                                                                                                                                                            
- [9] "Tamanho               X8 Tamanho da firma: tamanho da empresa em relação a outros neste mercado. Esta variável tem duas categorias: 1 = grande e 0 = pequeno"                                                                                                                     
-[10] "Niveldeuso            X9 Nível de uso: quanto do produto total da empresa é comprado da HATCO, medido em uma escala de porcentagem de 100 pontos, variando de 0 a 100 porcento"                                                                                                   
-[11] "Niveldesatisfacao     X10 Nível de satisfação: o grau de satisfação do comprador com compras anteriores da HATCO, medido na mesma escala de classificação gráfica que as percepções X1 a X7"                                                                                      
-[12] "Compradeespecificacao X11 Compra de especificação: Esta variável tem duas categorias: 1 = emprega abordagem de análise de valor total, avaliando cada compra separadamente, e 0 = uso de compra de especificação que detalha precisamente as características do produto desejado."
-[13] "Estruturadoscontratos X12 Estrutura dos contratos: Método de aquisição/compra de produtos dentro de uma determinada empresa. Esta variável tem duas categorias: 1 = centralizada e 0 = contratos públicos descentralizados"                                                       
-[14] "Tipo de indústria     X13 Tipo de indústria: classificação da indústria em que um comprador pertence. Esta variável tem duas categorias: 1 = indústria A classificação, e 0 = outras indústrias"                                                                                  
-[15] "Tiposituacaodecompra  X14 Tipo de situação de compra: tipo de situação que o comprador enfrenta. Esta variável tem três categorias: 1 = nova compra, 2 = recompra modificada e 3 = recompra igual a ultima" 
+﻿ID Identificação da pessoa 
+X1 Velocidade de entrega: quantidade de tempo que leva para entregar o celular uma vez que uma ordem foi confirmada
+X2 Preço do produto (valores próximos de zero = Barato; valores próximos de seis = caro)
+X3 Flexibilidade de preços: percepção sobre a forma de pagamento (Dinheiro, Cartao, Crediário, em 10X, Desconto, etc...)
+X4 Imagem do fabricante: imagem geral do fabricante / fornecedor
+X5 Avaliação da Embalagem:nível de qualidade percebido da embalagem
+X6 Imagem da força de vendas: imagem geral da força da empresa de vendas
+X7 Qualidade do produto: nível de qualidade percebido de um determinado produto
+X8 Tamanho da empresa: tamanho da empresa em relação a outros neste mercado. Esta variável tem duas categorias: 1 = grande e 0 = pequena
+X9 Nível de uso: quantos celulares da empresa são comprados, medido em uma escala de porcentagem de 100 pontos, variando de 0 a 100 %
+X10 Nível de satisfação: o grau de satisfação do usuário
+X11 Internet: 0 = Usuário eventual da Internet; 1 = Usuário acostumado com a Internet;
+X12 Faixa de Idade: Esta variável tem duas categorias: 0 = Jovem; 1 = Adulto
+X13 Sexo: Esta variável tem duas categorias: 1 =Feminino, e 0 = Masculino
+X14 Local da Compra: Esta variável tem três categorias: 1 = Capital e 2 = Região Metropolitana, 3 = Interior
