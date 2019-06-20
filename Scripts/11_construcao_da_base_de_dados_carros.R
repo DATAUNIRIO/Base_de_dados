@@ -19,6 +19,7 @@ nomes<-c("Km por litro","Número de Cilindros","Preço","HP = Horse Power (potê
          "RPM = Rotações Por Minuto","Tipo de combustível (0 = Gasolina, 1 = Álcool)","Tipo de Câmbio (0 = Automático, 1 = Manual)",
          "Número de Marchas","Número de Válvulas")
 attr(CARROS, "variable.labels") <- nomes
+remove(mtcars)
 #attributes(CARROS)
 #names(CARROS)
 #summary(CARROS)
