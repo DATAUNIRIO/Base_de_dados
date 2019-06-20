@@ -1,3 +1,13 @@
+##================================================================================================
+##                                                                                              
+##    Nome: Construcao de Base de dados e Dicionario de dados                                           
+##                                                    
+##                                                                                                                                                     ##
+##    Objetivo: Construcao de Base de dados paraa aula de estatistica e regressao linear
+##    prof. Steven Dutt-Ross                          
+##    UNIRIO           
+##================================================================================================
+
 data(mtcars)
 CARROS<-mtcars
 colnames(CARROS) <- c("Kmporlitro","Cilindros","Preco","HP","Amperagem_circ_eletrico",
