@@ -6,3 +6,9 @@
 
 # Para carregar o banco de dados Estado
 UF <- read.csv2(url("https://raw.githubusercontent.com/DATAUNIRIO/Base_de_dados/master/Estados.csv")
+
+
+# Para carregar o banco de dados do  Machine Learning Repository
+source("https://raw.githubusercontent.com/DATAUNIRIO/aulauniriov2/master/banco_de_dados_aula.R")
+
+
