@@ -4,9 +4,6 @@
 
 
 # Para fazer o download dos bancos de dados, copie e cole no R o código abaixo.
-
-
-
 source('https://raw.githubusercontent.com/DATAUNIRIO/aulauniriov2/master/download_das_bases_de_dados_do_curso_de_estatistica.R')
 
 
@@ -21,6 +18,8 @@ source("https://raw.githubusercontent.com/DATAUNIRIO/aulauniriov2/master/banco_d
 
 
 #### Para carregar o banco de dados de outros lugares
+https://datasetsearch.research.google.com/
+
 https://dataverse.harvard.edu/
 https://github.com/awesomedata/awesome-public-datasets   
 https://github.com/datasets/awesome-data and https://datahub.io/collections   
