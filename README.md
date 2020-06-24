@@ -6,8 +6,8 @@
 # Para fazer o download dos bancos de dados, copie e cole no R o código abaixo.
 source('https://raw.githubusercontent.com/DATAUNIRIO/aulauniriov2/master/download_das_bases_de_dados_do_curso_de_estatistica.R')
 
-install.packages("usethis")
-usethis::use_course("https://github.com/DATAUNIRIO/Base_de_dados/archive/master.zip")
+install.packages("usethis")   
+usethis::use_course("https://github.com/DATAUNIRIO/Base_de_dados/archive/master.zip")  
 
 
 
