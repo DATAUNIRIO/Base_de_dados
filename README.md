@@ -21,6 +21,7 @@ source("https://raw.githubusercontent.com/DATAUNIRIO/aulauniriov2/master/banco_d
 #### Para carregar o banco de dados de outros lugares
 https://datasetsearch.research.google.com/
 
+https://catalog.data.gov/dataset
 https://dataverse.harvard.edu/
 https://github.com/awesomedata/awesome-public-datasets   
 https://github.com/datasets/awesome-data and https://datahub.io/collections   
