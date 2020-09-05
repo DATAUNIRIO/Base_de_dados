@@ -1,0 +1,49 @@
+X1 Tipo de cliente Período de tempo em que um dado cliente tem comprado da HBAT:
+1 = menos de um ano
+2 = entre 1 e 5 anos
+3 = mais do que 5 anos
+X2 Tipo de indústria Tipo de indústria que compra os produtos de papel da HBAT:
+0 = indústria de revistas
+1 = indústria de jornais
+X3 Tamanho da fi rma Quantia de empregados:
+0 = empresa pequena, menos de 500 empregados
+1 = empresa grande, 500 ou mais empregados
+X4 Região Local do cliente: 0 = Brasil
+1 = fora do Brasil
+X5 Sistema de Como os produtos de papel distribuição são vendidos para clientes:
+0 = vendidos indiretamente através de um intermediário 
+1 = vendidos diretamente
+X6 Qualidade do Nível percebido de produto qualidade dos produtos de papel HBAT
+X7 Atividades de Imagem geral do Web site comércio da HBAT, especialmente eletrônico/ a facilidade de uso Website
+X8 Suporte técnico Grau em que o apoio técnico é oferecido para ajudar em questões sobre produto/serviços
+X9 Solução de Grau em que as reclamação reclamações são resolvidas em termos de prazo e eficiência
+X10 Anúncio Percepções sobre as campanhas de anúncios da HBAT em todos os tipos de mídia
+X11 Linha de produto Profundidade e amplitude da linha de produtos da HBAT para atender às necessidades dos clientes
+X12 Imagem da força Imagem geral da força de venda venda da HBAT
+X13 Preço competitivo Grau em que a HBAT oferece preços competitivos
+X14 Garantia e Grau em que a HBAT reclamações atua diante das garantias e reclamações sobre produtos e serviços
+X15 Novos produtos Grau em que a HBAT desenvolve e vende novos produtos
+X16 Encomenda e Percepções de que cobrança encomenda e cobrança são lidadas com eficiência e corretamente
+X17 Flexibilidade Percepção sobre a de preço disposição dos representantes de vendas
+da HBAT para negociar preços nas compras de produtos de papel
+X18 Velocidade de Tempo de demora para a entrega entrega de produtos de papel uma vez que a encomenda seja confirmada.
+
+X19 Satisfação do Satisfação do cliente com cliente as últimas compras feitas na HBAT, medida em uma escala gráfica de 10 pontos.
+X20 Probabilidade Probabilidade de recomendar a HBAT para a HBAT outras empresas como fornecedor de produtos de papel, medida em uma escala de 10 pontos.
+X21 Probabilidade Probabilidade de de futuras futuramente comprar compras da produtos de papel da HBAT, medida em uma escala de 10 pontos.
+X22 Percentual de Percentual das necessidades compras da firma respondente da HBAT de compras da HBAT, medido em uma escala percentual de 100 pontos.
+X23 Percepção de Grau em que o cliente/futura relação respondente vê a si mesmo com a HBAT em parceria/aliança com a HBAT:
+0 = não consideraria
+1 = sim, consideraria aliança ou parceria estratégica
+
+
+
+
+
+
+
+
+
+
+
+
