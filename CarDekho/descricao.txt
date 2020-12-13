@@ -1,0 +1,7 @@
+Conjunto de dados do veículo de CarDekho
+Um conjunto de dados útil para previsão de preços, este conjunto de dados de veículos inclui informações sobre carros e motocicletas disponíveis no site CarDekho.com. 
+Os dados estão em um arquivo CSV que inclui as seguintes colunas: 
+modelo, ano, preço de venda, preço de loja, quilômetros rodados, tipo de combustível, tipo de vendedor, transmissão e número de proprietários anteriores.
+
+Vehicle Dataset from CarDekho
+A useful dataset for price prediction, this vehicle dataset includes information about cars and motorcycles listed on CarDekho.com. The data is in a CSV file which includes the following columns: model, year, selling price, showroom price, kilometers driven, fuel type, seller type, transmission, and number of previous owners. 
